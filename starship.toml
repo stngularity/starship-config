@@ -51,7 +51,7 @@ truncate_to_repo = false
 use_os_path_sep = false
 home_symbol = " ~"
 read_only_style = "#ef2152"
-read_only = "  "
+read_only = " "
 format = "at [$path]($style)[$read_only]($read_only_style) "
 style = "#12191f"
 
